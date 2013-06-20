@@ -1,4 +1,7 @@
 numinput
 ========
 
-number input system 
+#This file requests user for a number
+#It squares the number 
+
+***************************************
